@@ -1,2 +1,2 @@
-# Manaus-modelos-de-aprendizagem-maquina
+# mecaniQA-Manaus
 repositório grupo MANAUS
